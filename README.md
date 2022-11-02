@@ -6,4 +6,6 @@
 
 ## Analysis
 
->
+>The new school district analysis we were able to include additional data analysis information. By those additional data we provide a clearer picture of the required data. The school budget column showed the various data per school type and subject. In this analysis we were able to group by the average school type to display school budget. See analysis below.
+
+![school budget](https://user-images.githubusercontent.com/114452770/199566643-f8c78759-145e-4199-8859-5a4bf257d2df.PNG)
